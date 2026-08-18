@@ -5,7 +5,7 @@
 * 🎨 **Frontend Development:** Experienced in building complex, interactive UIs from scratch using **Angular** and **Vue.js**.
 * ⚙️ **Infrastructure & Databases:** Strong skills in **PostgreSQL, SQL**, and full-cycle server management on **Ubuntu**, plus **Docker**.
 * 🤝 **Teamwork & Leadership:** Extensive experience working on large-scale collaborative projects, handling everything from complex Admin panels to comprehensive REST APIs.
-* 🌍 Based in Samarkand, Uzbekistan.
+* 🌍 Based in Khorezm, Uzbekistan.
 
 ### 🛠️ Tech Stack & Tools
 
