@@ -32,6 +32,8 @@
 
 ### 📊 GitHub Stats
 
-[![Nodirbek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=babayaz0v22&show_icons=true&theme=tokyonight)](https://github.com/babayaz0v22)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=babayaz0v22&layout=compact&theme=tokyonight)](https://github.com/babayaz0v22)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=babayaz0v22&show_icons=true&theme=tokyonight" alt="Nodirbek's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babayaz0v22&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
